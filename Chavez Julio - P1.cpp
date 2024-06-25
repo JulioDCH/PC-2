@@ -24,7 +24,7 @@ int main(){
     }
     
     cout<<"\nSuma de columnas: "<<endl;
-    for(j = 0; j < 3; j++){ // Corregido el bucle aquí
+    for(j = 0; j < 3; j++){ 
         cout << "Columna " << j << ": " << sumacolumnas[j] << endl;
     }
     
